@@ -3,6 +3,29 @@ __Markdown__ is a lightweight markup language that makes it easy to format text.
 
 In this tutorial, I’ll walk you through the essentials of Markdown—from basic syntax to advanced formatting techniques that will help you create more professional and visually engaging content.
 
+## Table of Contents
+
+ **Basic Markdown Syntax**
+
+- [Headings](#headings)
+- [Bold & Italics](#bold--italics)
+- [Lists](#lists)
+- [Links](#links)
+- [Images](#images)
+
+**Intermediate Features**
+
+- [Code Blocks](#code-blocks)
+- [Tables](#tables)
+- [Horizontal Lines](#horizontal-lines)
+
+**Advanced Markdown**
+
+- [Task Lists](#task-lists)
+- [Nested Lists](#nested-lists)
+- [Markdown in HTML](#markdown-in-html)
+
+---
 
 **Basic Markdown Syntax**
 - __Headings__ (L1-L6)
