@@ -1,3 +1,4 @@
+![Header](./header-image-of-markdown.png)
 __Markdown__ is a lightweight markup language that makes it easy to format text. It’s used widely across many platforms like GitHub, Dev.to, and more for creating well-structured documents, from README files to blogs and even documentation.
 
 In this tutorial, I’ll walk you through the essentials of Markdown—from basic syntax to advanced formatting techniques that will help you create more professional and visually engaging content.
