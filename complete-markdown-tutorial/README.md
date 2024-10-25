@@ -8,26 +8,28 @@ In this tutorial, I’ll walk you through the essentials of Markdown—from basi
  **Basic Markdown Syntax**
 
 - [Headings](#headings)
-- [Bold & Italics](#bold--italics)
+- [Paragraphs](#paragraphs)
+- [Blockquotes](#blockquotes)
 - [Lists](#lists)
-- [Links](#links)
+- [Hyperlink](#hyperlink)
 - [Images](#images)
 
 **Intermediate Features**
 
-- [Code Blocks](#code-blocks)
+- [Code Blocks & Syntax Highlighting](#code-blocks-syntax-highlighting)
 - [Tables](#tables)
 - [Horizontal Lines](#horizontal-lines)
 
 **Advanced Markdown**
 
+- [Escaping Characters](#escaping-characters)
 - [Task Lists](#task-lists)
 - [Nested Lists](#nested-lists)
 - [Markdown in HTML](#markdown-in-html)
 
 ---
 
-**Basic Markdown Syntax**
+## Basic Markdown Syntax
 - __Headings__ (L1-L6)
 ```markdown
 # Bangladesh
@@ -121,6 +123,8 @@ This will display as:
 > __Hyperlink__ and __Images__ both syntax are same expect one __exclamation mark__ (**!**) which is point beginning of the __Images tag__.
 
 ---
+## Intermediate Features
+
 - __Code Blocks & Syntax Highlighting__
 
 For Single Line Code ( between single backticks **``** ):
@@ -180,6 +184,8 @@ This will display as:
 
 
 ---
+
+## Advanced Markdown
 
 - __Escaping Characters__
 
