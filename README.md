@@ -6,6 +6,9 @@ Welcome to **Blog by MahbubuMitu**! 👋 This is my dedicated space where I regu
 
 This repository is organized into folders, each containing posts on specific topics that I have covered. Here, you'll find Markdown files with explanations, tips, and examples to make learning easy and accessible. Each folder represents one of my posts—feel free to explore, experiment, and leave feedback!
 
+1. [A Complete Markdown Tutorial: From Basics to Advanced](https://github.com/mahbubumithu/blog-by-mahbubumithu/tree/main/complete-markdown-tutorial)
+2. [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://github.com/mahbubumithu/blog-by-mahbubumithu/tree/main/github-profile-using-markdown)
+
 ## 🌟 My Message to You
 
 Thank you for stopping by! My goal is to make learning enjoyable and impactful. Remember, every expert was once a beginner, and learning is a continuous journey. Keep pushing forward, stay curious, and never hesitate to explore new paths. In tech, there's always something new to learn and a new challenge to conquer. I’m thrilled to have you here and hope my content inspires you to achieve your goals.
