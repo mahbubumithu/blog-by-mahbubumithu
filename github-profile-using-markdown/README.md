@@ -1,4 +1,5 @@
-[Header](./github-profile-markdown.png)
+![Header](./github-profile-markdown.png)
+
 Did you know you can customize your **GitHub Profile** to create a memorable first impression? In this tutorial, I’ll show you how to use **Markdown** to create a **GitHub Profile** that truly stands out. Whether you're a beginner or an advanced user, these tips and tricks will help you showcase your skills, projects, and personality.
 
 ## Table of Contents
